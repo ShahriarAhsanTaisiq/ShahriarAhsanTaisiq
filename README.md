@@ -4,8 +4,9 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-📫 Email: (shahriarahsantaisiq@gmail.com)
-📄 Know about my experiences: [Download Resume](https://drive.google.com/file/d/1ebeJbGn2RRx95Xjf714XCkLg0hDG7HGz/view?usp=sharing)
+📫 Email: <a href="shahriarahsantaisiq@gmail.com">shahriarahsantaisiq@gmail.com</a>
+  
+📄 Know about my experiences: <a href="https://drive.google.com/file/d/1ebeJbGn2RRx95Xjf714XCkLg0hDG7HGz/view?usp=sharing">Download Resume</a>
 
 </p>
 
