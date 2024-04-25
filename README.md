@@ -1,12 +1,13 @@
 ### <h1 align="center">Hi 👋, I'm Shahriar Ahsan Taisiq</h1>
 <h3 align="center">Java backend developer 🧙‍♂️</h3>
 
-- 📫 Email: **shahriarahsantaisiq@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1ebeJbGn2RRx95Xjf714XCkLg0hDG7HGz/view?usp=sharing](https://drive.google.com/file/d/1ebeJbGn2RRx95Xjf714XCkLg0hDG7HGz/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+  - 📫 Email: **shahriarahsantaisiq@gmail.com**
+
+- 📄 Know about my experiences [https://drive.google.com/file/d/1ebeJbGn2RRx95Xjf714XCkLg0hDG7HGz/view?usp=sharing](https://drive.google.com/file/d/1ebeJbGn2RRx95Xjf714XCkLg0hDG7HGz/view?usp=sharing)
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
